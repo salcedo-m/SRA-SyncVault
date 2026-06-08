@@ -1,0 +1,15 @@
+# Directorios de datos y temporales
+sra/
+fastq/
+logs/
+tmp/
+exportacion_final/
+
+# Archivos de depuración y listas locales
+*.log
+lista.txt
+lista_test.txt
+
+# Scripts obsoletos (Solo subiremos el motor final)
+descarga.sh
+copia_descarga.sh
